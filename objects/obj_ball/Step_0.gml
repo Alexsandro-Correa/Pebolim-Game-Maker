@@ -112,7 +112,9 @@ place_meeting(x,y+10,obj_player_b_forward)){
 }
 
 
-
+if(keyboard_check_pressed(vk_escape)){
+	room_goto(rm_menu);
+}
 
 
 

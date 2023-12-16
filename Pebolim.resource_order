@@ -28,6 +28,7 @@
     {"name":"spr_placar","order":3,"path":"sprites/spr_placar/spr_placar.yy",},
     {"name":"obj_goal_team_b","order":1,"path":"objects/obj_goal_team_b/obj_goal_team_b.yy",},
     {"name":"spr_side","order":3,"path":"sprites/spr_side/spr_side.yy",},
+    {"name":"spr_menu","order":6,"path":"sprites/spr_menu/spr_menu.yy",},
     {"name":"obj_side_top","order":2,"path":"objects/obj_side_top/obj_side_top.yy",},
     {"name":"spr_goal","order":2,"path":"sprites/spr_goal/spr_goal.yy",},
     {"name":"obj_player_b_midle","order":2,"path":"objects/obj_player_b_midle/obj_player_b_midle.yy",},
